@@ -1,0 +1,35 @@
+input[type=password],inpu[type=email],select{ 
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+div{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.kotaklogin {
+    width: 350px;
+    margin: 20px auto 80px auto;
+}
+input [type=submit] {
+    width: 100%;
+    background: color #4caf50;
+    color: white;
+    padding: 14PX 20PX;
+    margin: 8PX 0;
+    border: none;
+    border-radius: 4PX;
+    cursor: pointer;
+}
+input[TYPE=SUBMIT]:hover {
+    background-color: #45a049;
+}
+H1{
+    text-align: center;
+    margin: 80PX auto 0 auto;
+}
